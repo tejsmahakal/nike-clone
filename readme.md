@@ -1,4 +1,6 @@
 github link : https://github.com/tejsmahakal/nike-clone
+hosted link : https://tejsmahakal.github.io/nike-clone/
+
  # Features
  1. Navigation Bar: Includes menu items like Puma, New, Women, Men, Kids, Motorsport, Collaborations, Sports, Sale, Palermo, and options for Search, Favorites, and Cart.
 
